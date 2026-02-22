@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="832587e5-8baf-43af-8a17-a6bf11c58da6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/download_data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/download_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/download_data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ridership.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ridership.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771523655439</updated>
       <workItem from="1771523656561" duration="1462000" />
-      <workItem from="1771790402328" duration="691000" />
+      <workItem from="1771790402328" duration="1011000" />
     </task>
     <servers />
   </component>
@@ -84,7 +88,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/ridership.ipynb</url>
-          <line>246</line>
+          <line>247</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
