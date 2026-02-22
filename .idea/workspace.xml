@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="832587e5-8baf-43af-8a17-a6bf11c58da6" name="Changes" comment="">
+    <list default="true" id="832587e5-8baf-43af-8a17-a6bf11c58da6" name="Changes" comment="Added season dummies">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/download_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/download_data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ridership.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ridership.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,19 +78,41 @@
       <option name="presentableId" value="Default" />
       <updated>1771523655439</updated>
       <workItem from="1771523656561" duration="1462000" />
-      <workItem from="1771790402328" duration="1011000" />
+      <workItem from="1771790402328" duration="3563000" />
     </task>
+    <task id="LOCAL-00001" summary="Download data correctly with timeout">
+      <option name="closed" value="true" />
+      <created>1771792383338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771792383339</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added season dummies">
+      <option name="closed" value="true" />
+      <created>1771793029622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771793029622</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Download data correctly with timeout" />
+    <MESSAGE value="Added season dummies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added season dummies" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/ridership.ipynb</url>
-          <line>247</line>
+          <line>259</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
