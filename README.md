@@ -68,6 +68,5 @@ We compared three model families to predict ridership volume:
 
 ## Key Findings
 
-* **The Root Split:** The primary driver of ridership is a binary boundary: is the station within a mile of the **Downtown Core**?
+* **The Root Split:** The primary driver of ridership is a binary boundary: is the station within a mile of the Downtown Core district?
 * **The Post-Pandemic Shift:** Pre-2020 ridership patterns have not fully returned.
-
