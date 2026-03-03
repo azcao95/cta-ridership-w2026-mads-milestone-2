@@ -1,0 +1,1 @@
+TODO: instructions to add the csvs into resources and a more robust loading system (more folders and support for multiple csvs)
