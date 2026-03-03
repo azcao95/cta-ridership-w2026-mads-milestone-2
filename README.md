@@ -1,4 +1,5 @@
 # Predicting Ridership at the Chicago Transit Authority’s ‘L’ Stations
+[Download/View Written Report (PDF)](./Written%20Report.pdf)
 
 ## Contributors
 
@@ -70,4 +71,3 @@ We compared three model families to predict ridership volume:
 * **The Root Split:** The primary driver of ridership is a binary boundary: is the station within a mile of the **Downtown Core**?
 * **The Post-Pandemic Shift:** Pre-2020 ridership patterns have not fully returned.
 
----
